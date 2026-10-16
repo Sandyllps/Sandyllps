@@ -1,16 +1,28 @@
-## Hi there 👋
+# <samp><span style="color: #ff69b4;">Olá, sou Sandy 🐿️</span></samp>
 
-<!--
-**Sandyllps/Sandyllps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 📖 Graduanda em Análise e Desenvolvimento de Sistemas no IFPE Garanhuns.
+> 
+> 📜 Focada em Desenvolvimento Web Back-end e Criação de APIs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Habilidades Técnicas
+
+|  |  |
+| :--- | :--- |
+| **Linguagens** | `JavaScript`  `Python`  `Java`  `C++`  `Kotlin` |
+| **Back-end & APIs** | `Node.js` `Express` `Construção de APIs REST` |
+| **Bancos de Dados (SQL & NoSQL)** | `PostgreSQL` `MySQL` `SQLite` `MongoDB` |
+| **Front-end** | `HTML5` `CSS3` |
+| **Versionamento & Processos** | `Git` `GitHub` `Metodologias Ágeis` `Scrum` `Kanban` |
+
+---
+
+### Meus conhecimentos
+
+- **Especialidade em APIs:** Desenvolvimento de regras de negócio e a criação de APIs utilizando Node.js.
+- **Habilidade com Dados:** Vivência prática em projetos da faculdade modelando e manipulando bancos de dados relacionais (SQL).
+- **Experiência em Gestão:** Gerência de projetos acadêmicos em equipe. Facilidade em organizar fluxos de trabalho usando frameworks ágeis como Kanban.
+
+---
